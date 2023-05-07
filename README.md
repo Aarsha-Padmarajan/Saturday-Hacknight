@@ -16,6 +16,8 @@ To install the app, follow these steps:
 # Usage
 To use the app, follow these steps:
 
+
+
 * Open the app.
 * Enter one or more keywords related to your Instagram post.
 * Click the "Generate" button to generate a list of captions based on your input.
