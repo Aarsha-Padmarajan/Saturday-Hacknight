@@ -15,9 +15,9 @@ function createMainWindow(){
     });
 
     //open dev tools if in dev env
-    if (isDev){
+    /*if (isDev){
         mainWindow.webContents.openDevTools();
-    }
+    }*/
     mainWindow.loadFile(path.join(__dirname, 'index.html'));
 }
 app.whenReady().then(() => {
